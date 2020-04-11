@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 514ab1fbf9681d649bdade6b3a7a055f
+guid: 24c832beade37d04f8496ff95c3443eb
 ModelImporter:
   serializedVersion: 19300
   internalIDToNameTable: []
@@ -87,7 +87,7 @@ ModelImporter:
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   autoGenerateAvatarMappingIfUnspecified: 1
-  animationType: 0
+  animationType: 2
   humanoidOversampling: 1
   avatarSetup: 0
   additionalBone: 0
